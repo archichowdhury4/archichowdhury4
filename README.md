@@ -11,7 +11,7 @@ Currently, I am learning Next.js and improving my skills.
 - Working on a decoration website
 
 🛠 Skills
-HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node js 
+HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node js | mongodb
 
 📫 Contact
 Email: archicmpi@gmail.com  
