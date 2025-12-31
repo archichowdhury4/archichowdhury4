@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Archi Chowdhury
+### Frontend Web Developer
 
-<!--
-**archichowdhury4/archichowdhury4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 About Me  
+I am a frontend web developer with a diploma background in Computer Technology.
+I love building responsive websites using React.
+Currently, I am learning Next.js and improving my skills.
 
-Here are some ideas to get you started:
+🔭 Current Activities
+- Exploring Next.js
+- Working on a decoration website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node js 
+
+📫 Contact
+Email: archicmpi@gmail.com  
+Location: Chattogram, Bangladesh
