@@ -1,3 +1,4 @@
+![Banner](https://github.com/archichowdhury4/archichowdhury4/blob/main/file_00000000b42c72068cc9b98b17e22eae.png)
 # Hi 👋 I'm Archi Chowdhury
 ### Frontend Web Developer
 
