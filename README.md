@@ -18,4 +18,3 @@ Email: archicmpi@gmail.com
 Location: Chattogram, Bangladesh
 
 
-![Banner](./banner.png)
