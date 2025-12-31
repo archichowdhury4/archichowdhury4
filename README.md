@@ -9,7 +9,7 @@ Currently, I am learning Next.js and improving my skills.
 
 🔭 Current Activities
 - Exploring Next.js
-- Working on a decoration website
+- Working on a Tourism website
 
 🛠 Skills
 HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node js | mongodb
