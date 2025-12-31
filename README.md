@@ -23,6 +23,6 @@ HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node js | mongodb
 Email: archicmpi@gmail.com  
 Location: Chattogram, Bangladesh
 
-Number of Contributions : 189
+Number of Contributions : 192
 Used language : English 
 
