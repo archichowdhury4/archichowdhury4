@@ -17,7 +17,7 @@ HTML | CSS | JavaScript | React | Tailwind | Git | GitHub | Node js | mongodb
 ## 🌐 Connect with Me
 
 - 💻 GitHub: https://github.com/archichowdhury4
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+- 💼 LinkedIn: https://www.linkedin.com/public-profile/
 
 📫 Contact
 Email: archicmpi@gmail.com  
